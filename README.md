@@ -2,7 +2,8 @@
 
 This project is designed to analyze historical Olympics data and generate insightful visualizations using Python. It utilizes libraries like Pandas and Plotly to explore trends, such as country-wise performance, athlete achievements, and medal distribution across different sports and years. The project is built using a Streamlit web app for interactivity and ease of use.
 
-https://e7.pngegg.com/pngimages/1020/402/png-clipart-2024-summer-olympics-brand-circle-area-olympic-rings-olympics-logo-text-sport.png
+![Screenshot 2024-09-29 151745](https://github.com/user-attachments/assets/600d7b7d-d413-403a-81da-4e3359814823)
+
 
 # Sidebar option selection
 
