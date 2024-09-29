@@ -2,6 +2,10 @@
 
 This project is designed to analyze historical Olympics data and generate insightful visualizations using Python. It utilizes libraries like Pandas and Plotly to explore trends, such as country-wise performance, athlete achievements, and medal distribution across different sports and years. The project is built using a Streamlit web app for interactivity and ease of use.
 
+https://e7.pngegg.com/pngimages/1020/402/png-clipart-2024-summer-olympics-brand-circle-area-olympic-rings-olympics-logo-text-sport.png
+
+# Sidebar option selection
+
 ## Features
 
 - **Country-wise Performance**: Analyze how different countries have performed across various editions of the Olympics.
@@ -34,76 +38,6 @@ Before running the project, ensure you have the following installed on your syst
    git clone https://github.com/abhaysingh71/olympics-data-analysis.git
    cd olympics-data-analysis
 
-# Olympics Data Analysis
-
-This project is designed to analyze historical Olympics data and generate insightful visualizations using Python. It utilizes libraries like Pandas and Plotly to explore trends, such as country-wise performance, athlete achievements, and medal distribution across different sports and years. The project is built using a Streamlit web app for interactivity and ease of use.
-
-## Features
-
-- **Country-wise Performance**: Analyze how different countries have performed across various editions of the Olympics.
-- **Medal Distribution**: Visualize the distribution of medals across sports and years.
-- **Athlete Analysis**: Explore individual athlete performance and achievements.
-- **Interactive Visualizations**: Use Plotly to create interactive and dynamic charts.
-- **Easy to Use Web Interface**: Powered by Streamlit for a smooth user experience.
-
-## Technologies Used
-
-- **Python**: Core programming language.
-- **Pandas**: Data manipulation and analysis library.
-- **Plotly**: Used for creating interactive visualizations.
-- **Streamlit**: For building and deploying the web application.
-
-## Installation
-
-### Prerequisites
-
-Before running the project, ensure you have the following installed on your system:
-- Python 3.x
-- pip (Python package manager)
-- A virtual environment tool (optional but recommended)
-
-### Steps to Install
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/olympics-data-analysis.git
-   cd olympics-data-analysis
-# Olympics Data Analysis
-
-This project is designed to analyze historical Olympics data and generate insightful visualizations using Python. It utilizes libraries like Pandas and Plotly to explore trends, such as country-wise performance, athlete achievements, and medal distribution across different sports and years. The project is built using a Streamlit web app for interactivity and ease of use.
-
-## Features
-
-- **Country-wise Performance**: Analyze how different countries have performed across various editions of the Olympics.
-- **Medal Distribution**: Visualize the distribution of medals across sports and years.
-- **Athlete Analysis**: Explore individual athlete performance and achievements.
-- **Interactive Visualizations**: Use Plotly to create interactive and dynamic charts.
-- **Easy to Use Web Interface**: Powered by Streamlit for a smooth user experience.
-
-## Technologies Used
-
-- **Python**: Core programming language.
-- **Pandas**: Data manipulation and analysis library.
-- **Plotly**: Used for creating interactive visualizations.
-- **Streamlit**: For building and deploying the web application.
-
-## Installation
-
-### Prerequisites
-
-Before running the project, ensure you have the following installed on your system:
-- Python 3.x
-- pip (Python package manager)
-- A virtual environment tool (optional but recommended)
-
-### Steps to Install
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/olympics-data-analysis.git
-   cd olympics-data-analysis
 2. Stage your changes and commit:
    ```bash
    # Add changes to index
